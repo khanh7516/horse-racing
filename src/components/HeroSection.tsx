@@ -76,26 +76,26 @@ const HeroSection = () => {
               </div>
             </div>
 
-            <div className="flex justify-between items-center text-sm py-2 border-b border-gray-700">
+            <div className="grid grid-cols-3 text-sm py-2 border-b border-gray-700 items-center">
               <span className="text-gray-300">Racetrack</span>
-              <span className="text-white">20</span>
-              <span className="bg-white text-black px-3 py-1 text-xs rounded">
+              <span className="text-white text-center">20</span>
+              <span className="bg-white text-black px-3 py-1 text-xs rounded text-center justify-self-end">
                 C663
               </span>
             </div>
 
-            <div className="flex justify-between items-center text-sm py-2 border-b border-gray-700">
+            <div className="grid grid-cols-3 text-sm py-2 border-b border-gray-700 items-center">
               <span className="text-gray-300">Circuit Race</span>
-              <span className="text-white">29</span>
-              <span className="bg-white text-black px-3 py-1 text-xs rounded">
+              <span className="text-white text-center">29</span>
+              <span className="bg-white text-black px-3 py-1 text-xs rounded text-center justify-self-end">
                 H161
               </span>
             </div>
 
-            <div className="flex justify-between items-center text-sm py-2 border-b border-gray-700">
+            <div className="grid grid-cols-3 text-sm py-2 border-b border-gray-700 items-center">
               <span className="text-gray-300">Dirt Racing</span>
-              <span className="text-white">19</span>
-              <span className="bg-white text-black px-3 py-1 text-xs rounded">
+              <span className="text-white text-center">19</span>
+              <span className="bg-white text-black px-3 py-1 text-xs rounded text-center justify-self-end">
                 H144
               </span>
             </div>
