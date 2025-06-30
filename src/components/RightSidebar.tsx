@@ -3,11 +3,6 @@ const RightSidebar = () => {
     <div className="space-y-6">
       <div className="bg-gray-800 rounded-lg p-6 relative overflow-hidden">
         <div className="absolute inset-0 opacity-20">
-          <img
-            src="https://images.unsplash.com/photo-1544737151439-6dc4ac2b9319?w=400&h=300&fit=crop&q=80"
-            alt="Horse racing background"
-            className="w-full h-full object-cover"
-          />
           <div className="absolute inset-0 bg-gradient-to-b from-transparent to-gray-800"></div>
         </div>
         <div className="relative z-10">
